@@ -1,0 +1,15 @@
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: rgb(31, 31, 31);
+    gap: 200px;
+
+    .container{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 200px;
+    }
+}
